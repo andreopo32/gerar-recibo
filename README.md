@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 💼 Gerador de Recibos em PDF (Python)
 
@@ -166,5 +164,3 @@ Categories=Office;Finance;
 Depois disso, ele aparecerá no menu como um app normal.
 
 ```
-
----
