@@ -1,8 +1,10 @@
 ```markdown
 # 💼 Gerador de Recibos em PDF (Python)
 
-Um utilitário simples e direto para gerar **recibos de pagamento em PDF** — ideal para profissionais autônomos ou prestadores de serviço.  
-Desenvolvido em **Python 3** com a biblioteca [ReportLab](https://www.reportlab.com/opensource/), o app pergunta os dados do cliente e gera automaticamente um recibo formatado e salvo em PDF.
+Um utilitário simples e direto para gerar **recibos de pagamento em PDF** — ideal 
+para profissionais autônomos ou prestadores de serviço.  
+Desenvolvido em **Python 3** com a biblioteca [ReportLab](https://www.reportlab.com/opensource/), 
+o app pergunta os dados do cliente e gera automaticamente um recibo formatado e salvo em PDF.
 
 ---
 
